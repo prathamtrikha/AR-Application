@@ -1,21 +1,18 @@
 # AR-Application
 Augmented Reality App made in Unity, which has 2 features : 
-1.Image Tracking : Tracks the Image and 3D object of the image on it
+1. Image Tracking : 
+Tracks the Image and 3D object of the image on it
 Note: Please use only the image provided in the images folder of this project
 
-2.Filter : There are 3 types of filter options Material Filters [Displays color]
+2. Filter : 
+There are 3 types of filter options Material Filters [Displays color on face]
+Texture Filter [Displays Texture on face]
+Object Filter [Displays object on face]
+
 
 ## Platforms : 
-Available for Windows (32/64 bit) & Android
-
-
-## How to Operate
-| Key | Content |
-| --- | --------|
-| WASD | Move |
-| 1 | Punch Weapon |
-| 2 | Gun Weapon |
-| Esc | Pause Menu |
+Available for Android [Android Version 7 or above and supports Google AR Core Library]
+To check if your device supports Google ARCore Library check on - https://developers.google.com/ar/devices
 
 
 ## How to download this Unity Project
@@ -25,7 +22,7 @@ Available for Windows (32/64 bit) & Android
 
 ## How to get Executable File for Windows
 1. Open the URL 
-[https://ghostlyindie.itch.io/crazy-mad-office](https://ghostlyindie.itch.io/crazy-mad-office)
+[https://ghostlyindie.itch.io/ar-application](https://ghostlyindie.itch.io/ar-unity-application)
 2. Scroll Down on the page and download the game for your desired platform.
 3. Open file in the folder and Enjoy.
 
