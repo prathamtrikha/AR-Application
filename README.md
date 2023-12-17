@@ -23,7 +23,7 @@ To check if your device supports Google ARCore Library check on - https://develo
 ## How to get Executable File for Windows
 1. Open the URL 
 [https://ghostlyindie.itch.io/ar-application](https://ghostlyindie.itch.io/ar-unity-application)
-2. Scroll Down on the page and download the game for your desired platform.
+2. Scroll Down on the page, download the game with the image provided for Image Tracking.
 3. Open file in the folder and Enjoy.
 
 
