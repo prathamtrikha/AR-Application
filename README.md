@@ -26,5 +26,6 @@ To check if your device supports Google ARCore Library check on - https://develo
 2. Scroll Down on the page, download the game with the image provided for Image Tracking.
 3. Open file in the folder and Enjoy.
 
+Download Here - https://ghostlyindie.itch.io/ar-unity-application
 
 Happy Playing !!!
